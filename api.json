@@ -1,15 +1,21 @@
 {
-    "user" : [
+    "data": [
         {
-            "id" : "1",
-            "fullname": "Koffi Koffi Andre",
-            "title" : "Andre Exauce",
-            "email" : "koffikoffiandre2000@gmail.com",
-            "about" : "Orange Côte d’Ivoire Responsable en gestion de back office et développement d'applications, j'associe une expertise technique avancée à des compétences organisationnelles solides pour rationaliser les processus internes. Mon approche axée sur l'innovation me permet de créer des solutions efficaces qui répondent aux défis métiers tout en améliorant la performance globale.",
-            "type" : "string"
-        },
-        {
-            "project" : [
+            "user_data" : 
+                {
+                    "id": "1",
+                    "fname": "fname",
+                    "lname": "lastname",
+                    "number": "123",
+                    "email": "email@example.com",
+                    "pawword": "123",
+                    "profile_img_url": "http://localhost:3000/api/v1/img/user/avatar-1.png",
+                    "friend_number": "513",
+                    "user_type": "basic",
+                    "certificate": "0"
+                }
+            ,
+            "user_project" : [
                 {
                     "id" : "1",
                     "name" : "Project",
@@ -42,8 +48,41 @@
                     "project_image" : "http://localhost:3000/api/portfolio/images/image_1.png",
                     "user_id": "1"
                 }
+            ],
+            "user_post" : [
+                {
+                    "id" : "1",
+                    "user_id" : "1",
+                    "post_title" : "ce que j'ai mangé ce soir",
+                    "post_description" : "j'ai mangé ce soir du riz 🍚🍚 avec patte que j'ai cuisiner 🍽️🍽️ moi même !!! 😊😊😊😁😁😁",
+                    "post_like" : "200 ❤️",
+                    "post_views" : "289",
+                    "post_date" : "26/09/2024 22:38",
+                    "post_comments" : [
+                        {
+                            "id" : "1",
+                            "user_id" : "89",
+                            "comments": "Un vrai cordon bleu 👳‍♀️👳",
+                            "comment_date" : "26/09/2024 22:40",
+                            "post_id" : "1",
+                            "post_liked": "1"
+                        },
+                        {
+                            "id" : "2",
+                            "user_id" : "43",
+                            "comments": "ok 👌👌",
+                            "comment_date" : "26/09/2024 22:52",
+                            "post_id" : "1",
+                            "post_liked": "0"
+                        }
+                    ]
+                }
+            ],
+            "user_comment" : [
+                {
+                    
+                }
             ]
         }
     ]
-    
 }
