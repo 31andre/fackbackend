@@ -45,7 +45,7 @@
                     "name" : "Project",
                     "description" : "smartgarage",
                     "date" : "Septembre 2024",
-                    "project_image" : "http://localhost:3000/api/portfolio/images/image_1.png",
+                    "project_image" : "https://31andre.github.io/fackbackend/profile/avatar-1.png",
                     "user_id": "1"
                 }
             ],
