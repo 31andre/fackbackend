@@ -1,0 +1,199 @@
+{
+    "eliminatoires_CAN_2025": {
+      "Groupes": {
+        "Groupe_A": {
+          "matchs": [
+            {
+              "date": "2024-09-04",
+              "adversaire": "Kenya",
+              "resultat": "Mali 1 - 0",
+              "stade": "Stade du 26 Mars, Bamako"
+            },
+            {
+              "date": "2024-09-04",
+              "adversaire": "Mozambique",
+              "resultat": "Gambie 2 - 0",
+              "stade": "Stade de l'Amitié, Banjul"
+            }
+          ]
+        },
+        "Groupe_B": {
+          "matchs": [
+            {
+              "date": "2024-09-05",
+              "adversaire": "Zimbabwe",
+              "resultat": "Ghana 2 - 0",
+              "stade": "Stade Baba Yara, Kumasi"
+            },
+            {
+              "date": "2024-09-05",
+              "adversaire": "Madagascar",
+              "resultat": "Angola 2 - 0",
+              "stade": "Stade 11 Novembre, Luanda"
+            }
+          ]
+        },
+        "Groupe_C": {
+          "matchs": [
+            {
+              "date": "2024-09-06",
+              "adversaire": "Botswana",
+              "resultat": "Égypte 3 - 0",
+              "stade": "Stade du Caire, Le Caire"
+            },
+            {
+              "date": "2024-09-06",
+              "adversaire": "Mauritanie",
+              "resultat": "Cap-Vert 1 - 0",
+              "stade": "Stade de Praia, Praia"
+            }
+          ]
+        },
+        "Groupe_D": {
+          "matchs": [
+            {
+              "date": "2024-09-07",
+              "adversaire": "Bénin",
+              "resultat": "Nigeria 3 - 0",
+              "stade": "Stade MKO Abiola, Abuja"
+            },
+            {
+              "date": "2024-09-07",
+              "adversaire": "Libye",
+              "resultat": "Rwanda 1 - 1",
+              "stade": "Stade de Kigali, Kigali"
+            }
+          ]
+        },
+        "Groupe_E": {
+          "matchs": [
+            {
+              "date": "2024-09-08",
+              "adversaire": "Guinée Équatoriale",
+              "resultat": "Algérie 2 - 0",
+              "stade": "Stade Mustapha Tchaker, Blida"
+            },
+            {
+              "date": "2024-09-08",
+              "adversaire": "Liberia",
+              "resultat": "Togo 1 - 1",
+              "stade": "Stade de Port Harcourt, Port Harcourt"
+            }
+          ]
+        },
+        "Groupe_F": {
+          "matchs": [
+            {
+              "date": "2024-09-09",
+              "adversaire": "Niger",
+              "resultat": "Soudan 1 - 0",
+              "stade": "Stade de Khartoum, Khartoum"
+            },
+            {
+              "date": "2024-09-09",
+              "adversaire": "Ghana",
+              "resultat": "Angola 1 - 0",
+              "stade": "Stade de Luanda, Luanda"
+            }
+          ]
+        },
+        "Groupe_G": {
+          "matchs": [
+            {
+              "date": "2024-09-10",
+              "adversaire": "Zambie",
+              "resultat": "Côte d'Ivoire 2 - 0",
+              "stade": "Stade Félix Houphouët-Boigny, Abidjan"
+            },
+            {
+              "date": "2024-09-10",
+              "adversaire": "Sierra Leone",
+              "resultat": "Tchad 0 - 0",
+              "stade": "Stade de Bangui, Bangui"
+            }
+          ]
+        },
+        "Groupe_H": {
+          "matchs": [
+            {
+              "date": "2024-09-11",
+              "adversaire": "Guinée",
+              "resultat": "RD Congo 1 - 0",
+              "stade": "Stade des Martyrs, Kinshasa"
+            },
+            {
+              "date": "2024-09-11",
+              "adversaire": "Tanzanie",
+              "resultat": "Éthiopie 0 - 0",
+              "stade": "Stade d'Addis-Abeba, Addis-Abeba"
+            }
+          ]
+        },
+        "Groupe_I": {
+          "matchs": [
+            {
+              "date": "2024-09-12",
+              "adversaire": "Eswatini",
+              "resultat": "Guinée-Bissau 1 - 0",
+              "stade": "Stade de Bissau, Bissau"
+            },
+            {
+              "date": "2024-09-12",
+              "adversaire": "Mali",
+              "resultat": "Mozambique 1 - 1",
+              "stade": "Stade de Maputo, Maputo"
+            }
+          ]
+        },
+        "Groupe_J": {
+          "matchs": [
+            {
+              "date": "2024-09-13",
+              "adversaire": "Namibie",
+              "resultat": "Cameroun 1 - 0",
+              "stade": "Stade de Yaoundé, Yaoundé"
+            },
+            {
+              "date": "2024-09-13",
+              "adversaire": "Kenya",
+              "resultat": "Zimbabwe 0 - 0",
+              "stade": "Stade de Nairobi, Nairobi"
+            }
+          ]
+        },
+        "Groupe_K": {
+          "matchs": [
+            {
+              "date": "2024-09-14",
+              "adversaire": "Soudan du Sud",
+              "resultat": "Congo 1 - 0",
+              "stade": "Stade de Brazzaville, Brazzaville"
+            },
+            {
+              "date": "2024-09-14",
+              "adversaire": "Ouganda",
+              "resultat": "Afrique du Sud 2 - 2",
+              "stade": "Stade de Johannesburg, Johannesburg"
+            }
+          ]
+        },
+        "Groupe_L": {
+          "matchs": [
+            {
+              "date": "2024-09-15",
+              "adversaire": "Burkina Faso",
+              "resultat": "Sénégal 1 - 1",
+              "stade": "Stade de Dakar, Dakar"
+            },
+            {
+              "date": "2024-09-15",
+              "adversaire": "Malawi",
+              "resultat": "Burundi 2 - 3",
+              "stade": "Stade de Bujumbura, Bujumbura"
+            }
+          ]
+        }
+      }
+    }
+  }
+  
