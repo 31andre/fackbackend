@@ -8,19 +8,13 @@
 </head> 
 <body>
     <main>
-        <nav class="container py-2">
-            <header class="navbar m-1">
-                <section class="navbar-section">
-                  <a href="javascript:void();" class="navbar-brand mr-2">FackeBackend</a>
-                  <a href="..." class="btn btn-link">GitHub</a>
-                  <a href="#contact" class="btn btn-link">Contact</a>
-                  <a href="..." class="btn btn-link">Docs</a>
-                </section>
-                <section class="navbar-section">
-                  <div class="input-group input-inline">
-                    <input class="form-input" type="text" placeholder="search">
-                    <button class="btn btn-primary input-group-btn">Search</button>
-                  </div>
+        <nav class="">
+            <header class="navbar m-1 bg-body-secondary w-auto">
+                <section class="navbar-section justify-content-center align-items-center d-flex">
+                  <a href="javascript:void();" class="navbar-brand ">FackeBackend</a>
+                  <a href="javascript:void();" class="btn btn-link">Foot</a>
+                  <a href="javascript:void();" class="btn btn-link">Actualité</a>
+                  <a href="javascript:void();" class="btn btn-link">uer data</a>
                 </section>
             </header>
         </div>
@@ -31,6 +25,106 @@
             FackeBackend des api pour des test mobile et autres
         </h3>
     </div>
-    
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <textarea name="" readonly class="form-control bg-body-tertiary text-warning w-75" id="" cols="30" rows="10">
+                    {
+                        "data": [
+                            {
+                                "user_data" : 
+                                    {
+                                        "id": "1",
+                                        "fname": "fname",
+                                        "lname": "lastname",
+                                        "number": "123",
+                                        "email": "email@example.com",
+                                        "pawword": "123",
+                                        "profile_img_url": "http://localhost:3000/api/v1/img/user/avatar-1.png",
+                                        "friend_number": "513",
+                                        "user_type": "basic",
+                                        "certificate": "0"
+                                    }
+                                ,
+                                "user_project" : [
+                                    {
+                                        "id" : "1",
+                                        "name" : "Project",
+                                        "description" : "smartgarage",
+                                        "date" : "Septembre 2024",
+                                        "project_image" : "",
+                                        "user_id": "1"
+                                    },
+                                    {
+                                        "id" : "2",
+                                        "name" : "Project",
+                                        "description" : "smartgarage",
+                                        "date" : "Septembre 2024",
+                                        "project_image" : "",
+                                        "user_id": "1"
+                                    },
+                                    {
+                                        "id" : "3",
+                                        "name" : "Project",
+                                        "description" : "smartgarage",
+                                        "date" : "Septembre 2024",
+                                        "project_image" : "",
+                                        "user_id": "1"
+                                    },
+                                    {
+                                        "id" : "4",
+                                        "name" : "Project",
+                                        "description" : "smartgarage",
+                                        "date" : "Septembre 2024",
+                                        "project_image" : "https://31andre.github.io/fackbackend/profile/avatar-1.png",
+                                        "user_id": "1"
+                                    }
+                                ],
+                                "user_post" : [
+                                    {
+                                        "id" : "1",
+                                        "user_id" : "1",
+                                        "post_title" : "ce que j'ai mangé ce soir",
+                                        "post_description" : "j'ai mangé ce soir du riz 🍚🍚 avec patte que j'ai cuisiner 🍽️🍽️ moi même !!! 😊😊😊😁😁😁",
+                                        "post_like" : "200 ❤️",
+                                        "post_views" : "289",
+                                        "post_date" : "26/09/2024 22:38",
+                                        "post_comments" : [
+                                            {
+                                                "id" : "1",
+                                                "user_id" : "89",
+                                                "comments": "Un vrai cordon bleu 👳‍♀️👳",
+                                                "comment_date" : "26/09/2024 22:40",
+                                                "post_id" : "1",
+                                                "post_liked": "1"
+                                            },
+                                            {
+                                                "id" : "2",
+                                                "user_id" : "43",
+                                                "comments": "ok 👌👌",
+                                                "comment_date" : "26/09/2024 22:52",
+                                                "post_id" : "1",
+                                                "post_liked": "0"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "user_comment" : [
+                                    {
+                                        
+                                    }
+                                ]
+                            }
+                        ]
+                    } 
+                </textarea>
+            </div>
+            <div class="col-md-4">
+                <h1>get User data to test your app</h1>
+
+            </div>
+        </div>
+    </div>
 </body>
 </html>
