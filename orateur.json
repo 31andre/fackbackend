@@ -1,18 +1,22 @@
 [
     {
         "name": "pasteur zahui",
-        "image": "https://31andre.github.io/fackbackend/profile/past_zahui.jpg"
+        "image": "https://31andre.github.io/fackbackend/profile/past_zahui.jpg",
+        "description": "DÉCOUVRIR L'APPEL DE DIEU SUR MA VIE | PASTEUR WILFRIED ZAHUI · PRENDRE DE NOUVELLES RESOLUTIONS POUR 2025 | PASTEUR WILFRIED ZAHUI · JUSQU'ICI L'ÉTERNEL NOUS A ."
     },
     {
         "name": "PASTER ATHOMS",
-        "image": "https://31andre.github.io/fackbackend/profile/past_athoms.jpg"
+        "image": "https://31andre.github.io/fackbackend/profile/past_athoms.jpg",
+        "description" : "Athoms Mbuma de son vrai nom Guelord Mbuma Nkanda, est un musicien gospel, auteur-compositeur et interprète, pasteur évangélique pentecôtiste et membre de l'église « Phila Cité d'Éxaucement » affiliée aux Assemblées de Dieu, originaire de la République démocratique du Congo."
     },
     {
         "name": "pasteur sanogo mohamed",
-        "image": "https://31andre.github.io/fackbackend/profile/past_sanogo.jpg"
+        "image": "https://31andre.github.io/fackbackend/profile/past_sanogo.jpg",
+        "description" : "Mohammed Yérégnan Sanogo, né à Nogent-sur-Marne le 30 avril 1974, est un pasteur évangélique charismatique, auteur, compositeur, Ivoirien. Il est le fondateur et pasteur principal de l'église Vases d'honneur basée à Abidjan en Côte d'Ivoire."
     },
     {
         "name": "pasteur yvan castanou",
-        "image": "https://31andre.github.io/fackbackend/profile/past_yvan.jpg"
+        "image": "https://31andre.github.io/fackbackend/profile/past_yvan.jpg",
+        "description": "Yves Castanou est un pasteur chrétien évangélique charismatique congolais, né le 22 juin 1971 à Reims. Il est pasteur associé, cofondateur de l’église Impact centre chrétien à Paris et pasteur principal d’Impact centre chrétien Brazzaville au Congo. Il est directeur général de Congo Telecom, l’opérateur historique des télécommunications"
     }
 ]
