@@ -1,0 +1,72 @@
+{
+    "header": [
+        [
+            "Nom",
+            "Clé du produit",
+            "Date d'expiration",
+            "E-mail de la licence",
+            "Nom de la licence",
+            "Fabricant",
+            "Total",
+            "Dispo",
+            "Quantité minimum"
+        ]
+    ],
+    "data": [
+        {
+            "Nom": "Acrobat",
+            "Clé du produit": "c3dae543-12fb-3cda-b4a2-949dc9f9ab15",
+            "Date d'expiration": "Sat Aug 02, 2025",
+            "E-mail de la licence": "hermann.cruz@example.net",
+            "Nom de la licence": "",
+            "Fabricant": "Adobe",
+            "Total": 10,
+            "Dispo": 5,
+            "Quantité minimum": ""
+        },
+        {
+            "Nom": "InDesign",
+            "Clé du produit": "13f3ffc4-7eb2-3e27-b57e-b3f19b9fed64",
+            "Date d'expiration": "Sat Sep 13, 2025",
+            "E-mail de la licence": "mbatz@example.org",
+            "Nom de la licence": "",
+            "Fabricant": "Adobe",
+            "Total": 10,
+            "Dispo": 7,
+            "Quantité minimum": ""
+        },
+        {
+            "Nom": "Office",
+            "Clé du produit": "f99c8c3e-3bfd-3fae-8623-c934ce686d5d",
+            "Date d'expiration": "Wed Jun 17, 2026",
+            "E-mail de la licence": "balistreri.anna@example.net",
+            "Nom de la licence": "",
+            "Fabricant": "Microsoft",
+            "Total": 20,
+            "Dispo": 13,
+            "Quantité minimum": ""
+        },
+        {
+            "Nom": "Photoshop",
+            "Clé du produit": "75cbf3c8-978b-3c00-88b7-7e3572463d87",
+            "Date d'expiration": "Wed Jun 16, 2027",
+            "E-mail de la licence": "magnolia35@example.com",
+            "Nom de la licence": "",
+            "Fabricant": "Adobe",
+            "Total": 10,
+            "Dispo": 5,
+            "Quantité minimum": ""
+        },
+        {
+            "Nom": "",
+            "Clé du produit": "",
+            "Date d'expiration": "",
+            "E-mail de la licence": "",
+            "Nom de la licence": "",
+            "Fabricant": "",
+            "Total": "",
+            "Dispo": "",
+            "Quantité minimum": ""
+        }
+    ]
+}

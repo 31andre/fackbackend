@@ -7,16 +7,36 @@
     {
         "name": "PASTER ATHOMS",
         "image": "https://31andre.github.io/fackbackend/profile/past_athoms.jpg",
-        "description" : "Athoms Mbuma de son vrai nom Guelord Mbuma Nkanda, est un musicien gospel, auteur-compositeur et interprète, pasteur évangélique pentecôtiste et membre de l'église « Phila Cité d'Éxaucement » affiliée aux Assemblées de Dieu, originaire de la République démocratique du Congo."
+        "description": "Athoms Mbuma de son vrai nom Guelord Mbuma Nkanda, est un musicien gospel, auteur-compositeur et interprète, pasteur évangélique pentecôtiste et membre de l'église « Phila Cité d'Éxaucement » affiliée aux Assemblées de Dieu, originaire de la République démocratique du Congo."
     },
     {
         "name": "pasteur sanogo mohamed",
         "image": "https://31andre.github.io/fackbackend/profile/past_sanogo.jpg",
-        "description" : "Mohammed Yérégnan Sanogo, né à Nogent-sur-Marne le 30 avril 1974, est un pasteur évangélique charismatique, auteur, compositeur, Ivoirien. Il est le fondateur et pasteur principal de l'église Vases d'honneur basée à Abidjan en Côte d'Ivoire."
+        "description": "Mohammed Yérégnan Sanogo, né à Nogent-sur-Marne le 30 avril 1974, est un pasteur évangélique charismatique, auteur, compositeur, Ivoirien. Il est le fondateur et pasteur principal de l'église Vases d'honneur basée à Abidjan en Côte d'Ivoire."
     },
     {
         "name": "pasteur yvan castanou",
         "image": "https://31andre.github.io/fackbackend/profile/past_yvan.jpg",
         "description": "Yves Castanou est un pasteur chrétien évangélique charismatique congolais, né le 22 juin 1971 à Reims. Il est pasteur associé, cofondateur de l’église Impact centre chrétien à Paris et pasteur principal d’Impact centre chrétien Brazzaville au Congo. Il est directeur général de Congo Telecom, l’opérateur historique des télécommunications"
+    },
+    {
+        "name": "pasteur marcello tunasi",
+        "image": "https://31andre.github.io/fackbackend/profile/past_marcello.jpg",
+        "description": "Marcello Tunasi est un pasteur évangélique congolais, auteur et conférencier international, connu pour ses enseignements puissants et sa capacité à inspirer les croyants à travers le monde."
+    },
+    {
+        "name": "pasteur david oyedepo",
+        "image": "https://31andre.github.io/fackbackend/profile/past_oyedepo.jpg",
+        "description": "David Oyedepo est un évangéliste chrétien nigérian, auteur, architecte et fondateur de l'église Winners Chapel International, une des plus grandes congrégations évangéliques en Afrique."
+    },
+    {
+        "name": "pasteur tb joshua",
+        "image": "https://31andre.github.io/fackbackend/profile/past_tbjoshua.jpg",
+        "description": "Temitope Balogun Joshua, connu sous le nom de TB Joshua, était un télévangéliste et pasteur nigérian, fondateur de la Synagogue, Church Of All Nations (SCOAN)."
+    },
+    {
+        "name": "pasteur joel osteen",
+        "image": "https://31andre.github.io/fackbackend/profile/past_joel.jpg",
+        "description": "Joel Osteen est un pasteur, télévangéliste et auteur américain connu pour ses messages inspirants et motivants diffusés à travers le monde."
     }
 ]
