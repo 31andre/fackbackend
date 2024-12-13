@@ -1,0 +1,100 @@
+[
+    {
+        "user_name": "Andre Exauce",
+        "title": "Lancement de l'application",
+        "description": "Voici comment transformer votre carte de discussion (ChatCard) en un composant personnalisé réutilisable appelé CustomChatCard. Vous pouvez alors l'appeler avec les paramètres nécessaires (comme le nom, le texte, les images, etc.) pour générer une carte dynamique.",
+        "created_at": "13/12/2024 20h11",
+        "user_image_url": "https://31andre.github.io/fackbackend/profile/andre.png",
+        "like_count": "1",
+        "commentaire": [
+            {
+                "user_name": "Jane Doe",
+                "comment": "C'est une très belle idée!",
+                "created_at": "14/12/2024 16h45",
+                "user_image_url": "https://tse4.mm.bing.net/th?id=OIP.y0Fz-tb2EHPQkjJobufbuQAAAA&pid=Api"
+            },
+            {
+                "user_name": "Mark Smith",
+                "comment": "Merci pour votre commentaire!",
+                "created_at": "15/12/2024 09h30",
+                "user_image_url": "https://tse3.mm.bing.net/th?id=OIP.jg1F6u1u-4s0HFldp1_SswHaJQ&pid=Api"
+            },
+            {
+                "user_name": "Paul Johnson",
+                "comment": "Je suis d'accord avec vous.",
+                "created_at": "15/12/2024 17h50",
+                "user_image_url": "https://tse3.mm.bing.net/th?id=OIP.5JcxwD_lKp-_zZzvzk-q4wHaGO&pid=Api"
+            }
+        ]
+    },
+    {
+        "user_name": "Jane Doe",
+        "title": "Tutoriel Flutter",
+        "description": "Découvrez les bases de Flutter et comment créer une application mobile performante avec un design élégant.",
+        "created_at": "12/12/2024 18h00",
+        "user_image_url": "https://tse4.mm.bing.net/th?id=OIP.y0Fz-tb2EHPQkjJobufbuQAAAA&pid=Api",
+        "like_count": "12",
+        "commentaire": [
+            {
+                "user_name": "Andre Exauce",
+                "comment": "Excellent tutoriel, merci beaucoup!",
+                "created_at": "13/12/2024 10h30",
+                "user_image_url": "https://31andre.github.io/fackbackend/profile/andre.png"
+            },
+            {
+                "user_name": "Sarah Connor",
+                "comment": "Très utile pour les débutants.",
+                "created_at": "13/12/2024 15h20",
+                "user_image_url": "https://tse1.mm.bing.net/th?id=OIP.gShKrk-o2QlI9C93Ykgx2AHaEo&pid=Api"
+            }
+        ]
+    },
+    {
+        "user_name": "Mark Smith",
+        "title": "Nouvelles fonctionnalités d'Android",
+        "description": "Google vient de publier une mise à jour majeure pour Android. Voici les fonctionnalités à ne pas manquer.",
+        "created_at": "11/12/2024 09h00",
+        "user_image_url": "https://tse3.mm.bing.net/th?id=OIP.jg1F6u1u-4s0HFldp1_SswHaJQ&pid=Api",
+        "like_count": "30",
+        "commentaire": [
+            {
+                "user_name": "Jane Doe",
+                "comment": "C'est impressionnant!",
+                "created_at": "11/12/2024 11h15",
+                "user_image_url": "https://tse4.mm.bing.net/th?id=OIP.y0Fz-tb2EHPQkjJobufbuQAAAA&pid=Api"
+            }
+        ]
+    },
+    {
+        "user_name": "Paul Johnson",
+        "title": "Conseils pour le développement web",
+        "description": "Voici quelques astuces pour améliorer les performances de votre site web.",
+        "created_at": "10/12/2024 14h45",
+        "user_image_url": "https://tse3.mm.bing.net/th?id=OIP.5JcxwD_lKp-_zZzvzk-q4wHaGO&pid=Api",
+        "like_count": "22",
+        "commentaire": [
+            {
+                "user_name": "Mark Smith",
+                "comment": "Merci pour ces conseils pratiques!",
+                "created_at": "10/12/2024 15h00",
+                "user_image_url": "https://tse3.mm.bing.net/th?id=OIP.jg1F6u1u-4s0HFldp1_SswHaJQ&pid=Api"
+            }
+        ]
+    },
+    {
+        "user_name": "Sarah Connor",
+        "title": "Les tendances en IA",
+        "description": "L'intelligence artificielle évolue rapidement. Voici ce que vous devez savoir pour 2025.",
+        "created_at": "09/12/2024 17h00",
+        "user_image_url": "https://tse1.mm.bing.net/th?id=OIP.gShKrk-o2QlI9C93Ykgx2AHaEo&pid=Api",
+        "like_count": "40",
+        "commentaire": [
+            {
+                "user_name": "Andre Exauce",
+                "comment": "Très intéressant, merci pour cet article.",
+                "created_at": "10/12/2024 08h00",
+                "user_image_url": "https://31andre.github.io/fackbackend/profile/andre.png"
+            }
+        ]
+    }
+]
