@@ -1,41 +1,57 @@
 [
     {
         "name": "pasteur zahui",
+        "youtube_play_list_id": "PLzahui_123456789", 
+        "ressource": "Livre: 'L'appel de Dieu sur ma vie'",
         "image": "https://31andre.github.io/fackbackend/profile/past_zahui.jpg",
         "description": "DÉCOUVRIR L'APPEL DE DIEU SUR MA VIE | PASTEUR WILFRIED ZAHUI · PRENDRE DE NOUVELLES RESOLUTIONS POUR 2025 | PASTEUR WILFRIED ZAHUI · JUSQU'ICI L'ÉTERNEL NOUS A ."
     },
     {
         "name": "PASTER ATHOMS",
+        "youtube_play_list_id": "PLathoms_987654321", 
+        "ressource": "Album: 'Kumama Papa' · Livre: 'L'adoration authentique'",
         "image": "https://31andre.github.io/fackbackend/profile/past_athoms.jpg",
         "description": "Athoms Mbuma de son vrai nom Guelord Mbuma Nkanda, est un musicien gospel, auteur-compositeur et interprète, pasteur évangélique pentecôtiste et membre de l'église « Phila Cité d'Éxaucement » affiliée aux Assemblées de Dieu, originaire de la République démocratique du Congo."
     },
     {
         "name": "pasteur sanogo mohamed",
+        "youtube_play_list_id": "PLsanogo_123789456", 
+        "ressource": "Livre: 'Les secrets de la destinée'",
         "image": "https://31andre.github.io/fackbackend/profile/past_sanogo.jpg",
         "description": "Mohammed Yérégnan Sanogo, né à Nogent-sur-Marne le 30 avril 1974, est un pasteur évangélique charismatique, auteur, compositeur, Ivoirien. Il est le fondateur et pasteur principal de l'église Vases d'honneur basée à Abidjan en Côte d'Ivoire."
     },
     {
         "name": "pasteur yvan castanou",
+        "youtube_play_list_id": "PLyvan_456123789", 
+        "ressource": "Livre: 'Transformé pour impacter' · Cours: 'Leadership biblique'",
         "image": "https://31andre.github.io/fackbackend/profile/past_yvan.jpg",
-        "description": "Yves Castanou est un pasteur chrétien évangélique charismatique congolais, né le 22 juin 1971 à Reims. Il est pasteur associé, cofondateur de l’église Impact centre chrétien à Paris et pasteur principal d’Impact centre chrétien Brazzaville au Congo. Il est directeur général de Congo Telecom, l’opérateur historique des télécommunications"
+        "description": "Yves Castanou est un pasteur chrétien évangélique charismatique congolais, né le 22 juin 1971 à Reims. Il est pasteur associé, cofondateur de l’église Impact centre chrétien à Paris et pasteur principal d’Impact centre chrétien Brazzaville au Congo. Il est directeur général de Congo Telecom, l’opérateur historique des télécommunications."
     },
     {
         "name": "pasteur marcello tunasi",
+        "youtube_play_list_id": "PLmarcello_789123456", 
+        "ressource": "Livre: 'Les 7 erreurs fatales des leaders' · Conférences disponibles sur YouTube",
         "image": "https://31andre.github.io/fackbackend/profile/past_marcello.png",
         "description": "Marcello Tunasi est un pasteur évangélique congolais, auteur et conférencier international, connu pour ses enseignements puissants et sa capacité à inspirer les croyants à travers le monde."
     },
     {
         "name": "pasteur david oyedepo",
+        "youtube_play_list_id": "PLoyedepo_321456789", 
+        "ressource": "Livre: 'Les clés de la prospérité' · Sermons: 'Faith Tabernacle'",
         "image": "https://31andre.github.io/fackbackend/profile/past_oyedepo.webp",
         "description": "David Oyedepo est un évangéliste chrétien nigérian, auteur, architecte et fondateur de l'église Winners Chapel International, une des plus grandes congrégations évangéliques en Afrique."
     },
     {
         "name": "pasteur tb joshua",
+        "youtube_play_list_id": "PLtbjoshua_654789123", 
+        "ressource": "Livre: 'La foi au quotidien' · Vidéos SCOAN sur YouTube",
         "image": "https://31andre.github.io/fackbackend/profile/past_tbjoshua.jpg",
         "description": "Temitope Balogun Joshua, connu sous le nom de TB Joshua, était un télévangéliste et pasteur nigérian, fondateur de la Synagogue, Church Of All Nations (SCOAN)."
     },
     {
         "name": "pasteur joel osteen",
+        "youtube_play_list_id": "PLjoel_852369741", 
+        "ressource": "Livre: 'Your Best Life Now' · Podcast: 'Joel Osteen Podcast'",
         "image": "https://31andre.github.io/fackbackend/profile/past_joel.jpg",
         "description": "Joel Osteen est un pasteur, télévangéliste et auteur américain connu pour ses messages inspirants et motivants diffusés à travers le monde."
     }

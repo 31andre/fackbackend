@@ -1,41 +1,57 @@
 [
     {
       "name": "Dena Mwana",
+      "play_list_id": "",
+      "ressource": "",
       "image": "https://31andre.github.io/fackbackend/profile/dena_mwana.jpg",
       "description": "Dena Mwana est un artiste gospel congolais, reconnu pour ses chansons inspirantes et ses messages de foi à travers sa musique."
     },
     {
       "name": "Constance",
+      "play_list_id": "",
+      "ressource": "",
       "image": "https://31andre.github.io/fackbackend/profile/constance.jpg",
       "description": "Constance est une artiste chrétienne talentueuse, connue pour ses compositions et sa musique spirituelle touchante qui inspire les croyants."
     },
     {
       "name": "Ada Ehi",
+      "play_list_id": "",
+      "ressource": "",
       "image": "https://31andre.github.io/fackbackend/profile/ada_ehi.jpg",
       "description": "Ada Ehi est une artiste chrétienne nigériane, chantre gospel et auteure, reconnue pour sa musique édifiante et ses concerts pleins de l'Esprit."
     },
     {
       "name": "Le groupe Eden",
+      "play_list_id": "",
+      "ressource": "",
       "image": "https://31andre.github.io/fackbackend/profile/groupe_eden.jpg",
       "description": "Le groupe Eden est un groupe musical chrétien, connu pour sa passion et son engagement à chanter des hymnes de louange et de gratitude à Dieu."
     },
     {
       "name": "Judikay",
+      "play_list_id": "",
+      "ressource": "",
       "image": "https://31andre.github.io/fackbackend/profile/judikay.jpg",
       "description": "Judikay est une artiste gospel nigériane, reconnue pour ses chansons puissantes qui communiquent l'amour de Dieu et l'espoir à travers la musique."
     },
     {
       "name": "Faveur mukoko",
+      "play_list_id": "",
+      "ressource": "",
       "image": "https://31andre.github.io/fackbackend/profile/favour_lokoumo.jpg",
       "description": "Faveur mukoko est une artiste chrétienne, compositeur et interprète, connue pour ses mélodies édifiantes et son dévouement dans le ministère musical."
     },
     {
       "name": "Sinach",
+      "play_list_id": "",
+      "ressource": "",
       "image": "https://31andre.github.io/fackbackend/profile/sinach.jpg",
       "description": "Sinach est une artiste gospel nigériane et une compositrice internationale, célèbre pour ses chansons de louange et d'adoration qui inspirent des millions de croyants à travers le monde."
     },
     {
       "name": "Nadège Nboma",
+      "play_list_id": "",
+      "ressource": "",
       "image": "https://31andre.github.io/fackbackend/profile/nadege_nboma.webp",
       "description": "Nadège Nboma est une artiste chrétienne talentueuse, originaire du Cameroun, qui partage l'amour de Dieu à travers ses chants et ses compositions."
     }
