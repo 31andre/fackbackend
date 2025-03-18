@@ -8,7 +8,8 @@
         "like_count": "1",
         "commentaire": [
             {
-                "user_name": "Jane Doe",
+                "user_id": "Jane Doe",
+                "post_id": "1",
                 "comment": "C'est une très belle idée!",
                 "created_at": "14/12/2024 16h45",
                 "user_image_url": "https://tse4.mm.bing.net/th?id=OIP.y0Fz-tb2EHPQkjJobufbuQAAAA&pid=Api"
